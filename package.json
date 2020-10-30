@@ -4,7 +4,7 @@
   "description": "Protobuf.js ===========",
   "main": "Protobuf.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" "
+    "test": "echo \"Good Work!!!\" "
   },
   "repository": {
     "type": "git",
